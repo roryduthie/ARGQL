@@ -1,2 +1,2 @@
 # ARGQL
-HTML and javascript to exeture argQL queries
+HTML and javascript to execute argQL queries
